@@ -41,13 +41,13 @@ const ContactSection = () => {
               </div>
               <div className="flex items-center">
                 <GithubIcon size={20} className="text-blue-600 mr-4" />
-                <a href="https://github.com/chamidusahan" className="text-slate-700 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+                <a href="https://github.com/chamidusahan" target="_blank"  className="text-slate-700 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                   github.com/chamidu
                 </a>
               </div>
               <div className="flex items-center">
-                <LinkedinIcon size={20} className="text-blue-600 mr-4" />
-                <a href="https://www.linkedin.com/in/chamidu-sahan-b115792b5/" className="text-slate-700 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+                <LinkedinIcon size={20}  className="text-blue-600 mr-4" />
+                <a href="https://www.linkedin.com/in/chamidu-sahan-b115792b5/" target="_blank" className="text-slate-700 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
                   linkedin.com/in/chamidu
                 </a>
               </div>
