@@ -9,10 +9,11 @@ const AboutSection = () => {
           <div className="w-20 h-1 bg-blue-600 mx-auto mb-8"></div>
           <div className="bg-white dark:bg-slate-800 rounded-xl shadow-xl p-6 md:p-8">
             <p className="text-lg mb-6 leading-relaxed text-slate-700 dark:text-slate-300">
-              I'm a passionate Computer Science student with a strong interest in software development and 
-              web technologies. My journey in programming began during high school where I discovered my love for 
-              creating solutions through code. I enjoy building projects that solve real-world problems and 
-              continuously learning new technologies to expand my skill set.
+              I am a motivated Software Engineering student with a strong passion for application development and modern web technologies. My journey in programming began during high school, and since then, I’ve been dedicated to building real-world solutions through code.<br />
+
+              Currently, I am focused on mastering technologies like JavaScript and React, while continuously expanding my skills in both frontend and backend development. I take a self-driven approach to learning, working on personal projects to strengthen my problem-solving abilities and practical experience.<br />
+
+              My long-term goal is to contribute to impactful software solutions, gain industry experience through internships or entry-level opportunities, and grow into a well-rounded developer. I am eager to apply my knowledge in a professional environment and become a valuable asset to any development team.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
               <div className="flex flex-col items-center text-center p-4 rounded-lg bg-slate-50 dark:bg-slate-700/50">

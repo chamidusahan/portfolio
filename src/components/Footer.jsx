@@ -9,16 +9,16 @@ const Footer = () => {
           {/* Logo/Name */}
           <div className="mb-6 md:mb-0">
             <span className="text-xl font-bold bg-gradient-to-r from-blue-500 to-teal-400 bg-clip-text text-transparent">
-              Alex Johnson
+              Chamidu Sahan
             </span>
             <p className="text-slate-400 mt-2">Aspiring Software Engineer</p>
           </div>
           {/* Social Links */}
           <div className="flex space-x-4">
-            <a href="#" className="p-2 bg-slate-800 rounded-full hover:bg-blue-600 transition-colors">
+            <a href="https://github.com/chamidusahan" className="p-2 bg-slate-800 rounded-full hover:bg-blue-600 transition-colors">
               <GithubIcon size={20} />
             </a>
-            <a href="#" className="p-2 bg-slate-800 rounded-full hover:bg-blue-600 transition-colors">
+            <a href="https://www.linkedin.com/in/chamidu-sahan-b115792b5" className="p-2 bg-slate-800 rounded-full hover:bg-blue-600 transition-colors">
               <LinkedinIcon size={20} />
             </a>
             <a href="#" className="p-2 bg-slate-800 rounded-full hover:bg-blue-600 transition-colors">

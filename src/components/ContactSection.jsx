@@ -35,20 +35,20 @@ const ContactSection = () => {
             <div className="space-y-4">
               <div className="flex items-center">
                 <MailIcon size={20} className="text-blue-600 mr-4" />
-                <a href="mailto:alex@example.com" className="text-slate-700 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-                  alex@example.com
-                </a>
+                <p className="text-slate-700 dark:text-slate-300 transition-colors">
+                  chamidusahan0000@gmail.com
+                </p>
               </div>
               <div className="flex items-center">
                 <GithubIcon size={20} className="text-blue-600 mr-4" />
-                <a href="#" className="text-slate-700 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-                  github.com/alexj
+                <a href="https://github.com/chamidusahan" className="text-slate-700 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+                  github.com/chamidu
                 </a>
               </div>
               <div className="flex items-center">
                 <LinkedinIcon size={20} className="text-blue-600 mr-4" />
-                <a href="#" className="text-slate-700 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-                  linkedin.com/in/alexj
+                <a href="https://www.linkedin.com/in/chamidu-sahan-b115792b5/" className="text-slate-700 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+                  linkedin.com/in/chamidu
                 </a>
               </div>
             </div>
